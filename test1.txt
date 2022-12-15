@@ -1,0 +1,10 @@
+ Volume in drive C is Win10
+ Volume Serial Number is AD0E-6E29
+
+ Directory of C:\Users\PIYUSH\Desktop\MyProject
+
+12/15/2022  09:36 AM    <DIR>          .
+12/15/2022  09:36 AM    <DIR>          ..
+12/15/2022  09:36 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  136,019,849,216 bytes free
